@@ -12,6 +12,6 @@ comments in Lisp.
 Oficial verbal languages in this repo are: English, Spanish, Germanicus and invented
 Brazilian.
 
-Please consider visit the file DESCRIPTION to se how to use this repository
+Please consider visit the file DESCRIPTION to see how to use this repository
 
 Enjoy Hacking!!
