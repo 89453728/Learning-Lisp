@@ -1,0 +1,15 @@
+This file must have the tree file system.
+If you're in linux, write tree, copy and paste here
+
+.
+├── DESCRIPTION
+├── Docs
+├── Examples
+├── Exercices
+├── Features
+├── INDEX
+├── LICENSE
+├── NEWS
+├── README.md
+└── Testing
+

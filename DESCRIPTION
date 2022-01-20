@@ -1,0 +1,39 @@
+Hola, aqui explicare un poco de que va este maldito repositorio jejeje
+
+Este repositorio no es mas que para probar tu codigo de lisp y asi aprender
+el lenguaje sin ninguna presion.
+
+* Puedes poner aqui cualquier codigo de lisp por mu simple que sea siguiendo 
+  la estructura del repositorio.
+
+* INDEX es un fichero que contiene la distribucion de los directorios del 
+  repositorio para asi verlo facilmente. Si haces algun cambio en el repositorio,
+  deberas cambiar ese fichero copiando y pegando el comando tree o ejecutando 
+  en bash el script update_index.sh.
+
+* DESCRIPTION es este fichero que describe el cometido del repositorio y como 
+  se organiza.
+
+* NEWS es un fichero donde poner las noticias importantes, como que has hecho,
+  si quieres que alguien te ayude en un codigo, que has comido hoy XD, etc...
+
+* README.md lo tipico de cualquier repo de github
+
+* LICENSE licencia GPL 3
+
+* Docs es un directorio donde subir documentacion interesante: libros, notas, 
+  codigo lisp con comentarios de documentacion ...
+
+* Examples un directorio para ejemplos de codigo construido
+
+* Testing es un directorio para testear alguna funcionalidad concreta
+
+* Features esta de decoracion XD
+
+* Exercices es el directorio cabeza, es donde subir tus ejercicios hechos en 
+  lisp, si haces un ejercicio, crea un directorio dentro de Exercices y ponle
+  el nombre o alguna abreviatura que sirva para reconocer el ejercicio y 
+  dentro escribes el codigo del ejercicio y a ser posible el enunciado en
+  los comentarios del ejercicio o en un fichero aparte de texto plano
+
+

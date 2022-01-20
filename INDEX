@@ -1,0 +1,21 @@
+This file must have the tree file system.
+If you're in linux, write tree, copy and paste here
+
+.
+├── DESCRIPTION
+├── Docs
+│   └── Lisp_notas_en_esp.pdf
+├── Examples
+├── Exercices
+│   └── HelloWorld
+│       └── helloworld.lisp
+├── Features
+├── INDEX
+├── INDEX_RESG
+├── LICENSE
+├── NEWS
+├── README.md
+├── Testing
+└── update_index.sh
+
+6 directories, 9 files
