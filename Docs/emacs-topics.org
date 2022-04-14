@@ -1,0 +1,112 @@
+#+title: Temas de Emacs.
+#+description: Temas de emacs por los que hemos pasado, aunque sea levemente.
+
+* Ayuda de emacs.
+
+** Describe...
+
+- Function.
+- Variable.
+- Mode.
+- Package.
+- Key.
+
+** Tutorial.
+
+* Marcos (frames).
+
+* Ventanas.
+
+** Ventana lateral.
+
+** Ventana vertical.
+
+** Cerrar otras ventanas.
+
+** Cerrar la ventana en el foco.
+
+* Minibuffer.
+
+* Mode line.
+
+* Buffers.
+
+** Buffers estandar de Emacs.
+
+*** Messages.
+
+*** Scrach.
+
+** Gestión de buffers.
+
+* Modos.
+
+** Major mode.
+
+- Org mode.
+- Go mode.
+- js2 mode.
+
+** Minor mode.
+- Yas mode.
+
+* M-x.
+
+* Elisp.
+
+** Ejecutar/evaluar código.
+
+** Evaluar un buffer.
+
+** Ámbito de variables.
+
+** Funciones y comandos.
+
+* Edición básica.
+
+- Kill-ring.
+- Yank.
+- Undo.
+- Kill line.
+
+* Navegación básica.
+
+- Principio y final del buffer.
+- Principio y final de linea.
+* Org mode.
+
+** Exportar.
+
+- PDF.
+- HTML.
+- Markdown.
+
+** Tablas.
+
+** Agenda.
+
+** Tareas (TODOs).
+
+** Cabeceras.
+
+** Capture.
+
+** Bloques de código.
+
+*** Evaluar código (Babel).
+
+- C.
+- js.
+- bash.
+
+* Configurar Emacs.
+
+** Añadir atajos de teclado.
+
+** Fichero de configuración inicial (init.el).
+
+* Yasnippets.
+
+* eshell.
+
+* eww.
