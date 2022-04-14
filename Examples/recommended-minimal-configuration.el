@@ -2,7 +2,7 @@
 
 ;; Homepage: https://github.com/89453728/Learning-Lisp.git
 ;; Version: 0
-;; Package-Requires: ((use-package "0.1"))
+;; Package-Requires: ((use-package "0.1") (which-key "0.1"))
 
 ;;; Commentary:
 ;; This are recommended bare-minimal configuration. Keep in mind that
@@ -12,6 +12,7 @@
 ;;; Code:
 
 (require 'use-package)
+(require 'which-key)
 
 ;; Relative line number.
 ;; Only enabled for programming major modes.
