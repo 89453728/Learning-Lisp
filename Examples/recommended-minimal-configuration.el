@@ -39,6 +39,13 @@
   :diminish
   :config (which-key-mode))
 
+;; Enables `recentf' package to keep track of recent visited files.
+(use-package recentf
+  :config
+  (recentf-mode 1)
+  (setq recentf-max-menu-items 100)
+  (setq recentf-max-saved-items 100))
+
 (provide 'recommended-minimal-configuration)
 
 ;;; recommended-minimal-configuration.el ends here
